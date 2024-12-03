@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDKctPGqAYnTiQIkGBObXoM2LyJeOnDte4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>459522517492</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AhmedElakpawy.Trivia</string>
+	<key>PROJECT_ID</key>
+	<string>triviaholic</string>
+	<key>STORAGE_BUCKET</key>
+	<string>triviaholic.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:459522517492:ios:3305192829fc989c74f1a1</string>
+</dict>
+</plist>

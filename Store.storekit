@@ -1,0 +1,35 @@
+{
+  "identifier" : "com.AhmedElakpawy.Trivia.Premium",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "premium_unlock",
+      "localizations" : [
+        {
+          "description" : "Unlock all premium features forever",
+          "displayName" : "Premium Unlock",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.AhmedElakpawy.Trivia.PremiumUnlock",
+      "referenceName" : "Premium Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6450667661",
+    "_developerTeamID" : "YOUR_TEAM_ID",
+    "_lastSynchronizedDate" : 699992989.38443398
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+} 
